@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,kotlin,figma,git,idea,latex,mysql,ps,py,raspberrypi,discord,instagram,twitter,linkedin&theme=dark)](https://skillicons.dev)
+
 ### Waka Stats (since 11th January 2024)
 
 | Languages | Coding Activity |
