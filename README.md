@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+My Name is Maddhi and I like coding, music and photography!
+- 😄 Pronouns: he/him/his
 
 <!--
 **LordMaddhi/LordMaddhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018cf7c2-0a40-4c0d-9c86-b56b46a374f1/4b544c48-344b-4b18-bd00-d39d562c5279.png"/></a>
+### Waka Stats (since 11th January 2024)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018cf7c2-0a40-4c0d-9c86-b56b46a374f1/4b544c48-344b-4b18-bd00-d39d562c5279.png" /></a>
+| Languages | Coding Activity |
+| --- | --- |
+| <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018cf7c2-0a40-4c0d-9c86-b56b46a374f1/4b544c48-344b-4b18-bd00-d39d562c5279.png"/></a> | <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018cf7c2-0a40-4c0d-9c86-b56b46a374f1/4b544c48-344b-4b18-bd00-d39d562c5279.png" /></a> |
