@@ -1,7 +1,6 @@
 ### Hello there 👋
 
 My Name is Maddhi and I like coding, music and photography!
-- 😄 Pronouns: he/him/his
 
 <!--
 **LordMaddhi/LordMaddhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
