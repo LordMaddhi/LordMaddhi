@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,kotlin,figma,git,idea,latex,mysql,ps,py,raspberrypi,discord,instagram,twitter,linkedin&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,kotlin,py,idea,raspberrypi,figma,git,latex,mysql,ps,discord,instagram,twitter,linkedin&theme=dark)](https://skillicons.dev)
 
 ### Waka Stats (since 11th January 2024)
 
