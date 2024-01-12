@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My Name is Maddhi and I like coding, music and photography!
+My Name is Maddhi and I like coding, gaming, music and photography!
 
 <!--
 **LordMaddhi/LordMaddhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
