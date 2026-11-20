@@ -14,7 +14,7 @@
 
 <img src="assets/sign-waka.svg" alt="Waka Stats (since 2024)" height="90"/>
 
-<a href="https://wakatime.com/@LordMaddhi"><img src="https://raw.githubusercontent.com/LordMaddhi/LordMaddhi/output/waka.svg" alt="WakaTime: level, top languages since 2024 and a 12-month activity heatmap" width="100%"/></a>
+<img src="https://raw.githubusercontent.com/LordMaddhi/LordMaddhi/output/waka.svg" alt="WakaTime: level, top languages since 2024 and a 12-month activity heatmap" width="100%"/>
 
 <br/><br/>
 
