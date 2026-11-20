@@ -2110,7 +2110,7 @@
 <rect x="920" y="316" width="12" height="12" fill="#a8ff8a" opacity="0"><set attributeName="opacity" to="1" begin="1.600s" fill="freeze"/></rect>
 <rect x="920" y="332" width="12" height="12" fill="#a8ff8a" opacity="0"><set attributeName="opacity" to="1" begin="1.600s" fill="freeze"/></rect>
 <rect x="920" y="348" width="12" height="12" fill="#a8ff8a" opacity="0"><set attributeName="opacity" to="1" begin="1.600s" fill="freeze"/></rect>
-<rect x="920" y="364" width="12" height="12" fill="#5fbf5f" opacity="0"><set attributeName="opacity" to="1" begin="1.600s" fill="freeze"/></rect>
+<rect x="920" y="364" width="12" height="12" fill="#a8ff8a" opacity="0"><set attributeName="opacity" to="1" begin="1.600s" fill="freeze"/></rect>
 <rect x="656" y="424" width="4" height="4" fill="#4a5070"/>
 <rect x="656" y="428" width="4" height="4" fill="#4a5070"/>
 <rect x="656" y="432" width="4" height="4" fill="#4a5070"/>
