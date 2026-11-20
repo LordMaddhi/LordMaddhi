@@ -1,30 +1,25 @@
-### Hello there 👋
+<div align="center">
 
-My Name is Maddhi and I like coding, gaming, music and photography!
+<a href="https://maddhi.dev"><img src="assets/workshop.svg" alt="Pixel art: maddhi's dev room at night – monitor with scrolling code, headphones on a stand with music notes, a vintage camera that flashes now and then, neon sign MADDHI.DEV" width="100%"/></a>
 
-<!--
-**LordMaddhi/LordMaddhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Maddhi and I like coding, gaming, music and photography!
 
-Here are some ideas to get you started:
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/sign-skills.svg" alt="Skills" height="90"/>
 
-### Skills
+<img src="assets/bookshelf.svg" alt="Skills: Kotlin, Spring, Aurelia, TypeScript, JavaScript, HTML, CSS, MariaDB, Liquibase, Docker, Git, IntelliJ, Java, Python, Flutter, Dart, LaTeX, Figma, Photoshop, Raspberry Pi" width="100%"/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,kotlin,py,idea,raspberrypi,figma,git,latex,mysql,ps,discord,instagram,twitter,linkedin,flutter,dart&theme=dark)](https://skillicons.dev)
+<br/><br/>
 
-### Waka Stats (since 11th January 2024)
+<img src="assets/sign-waka.svg" alt="Waka Stats (since 2024)" height="90"/>
 
-#### Languages
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018cf7c2-0a40-4c0d-9c86-b56b46a374f1/4b544c48-344b-4b18-bd00-d39d562c5279.png"/></a>
+<a href="https://wakatime.com/@LordMaddhi"><img src="assets/waka.svg" alt="WakaTime: top languages since 2024 and coding hours of the last 7 days" width="100%"/></a>
 
-#### Coding Activity
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@LordMaddhi/69ad1de5-d89f-4ba9-9046-9e0f04a9acfe.png"/></a>
+<br/><br/>
+
+<img src="assets/sign-contact.svg" alt="Knock knock" height="90"/>
+
+<a href="https://maddhi.dev"><img src="assets/btn-web.svg" alt="maddhi.dev" height="44"/></a>
+
+</div>
