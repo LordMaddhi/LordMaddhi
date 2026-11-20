@@ -1,5 +1,8 @@
 name: WakaTime panel
 
+# Renders the WakaTime panel and publishes it to the `output` branch.
+# `output` always holds a single commit (force-pushed), so main stays clean.
+
 on:
   schedule:
     - cron: "17 3 * * *" # daily 03:17 UTC
@@ -18,19 +21,31 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Render assets/waka.svg
+      - name: Restore history from output branch
+        run: |
+          if git fetch --depth=1 origin output 2>/dev/null; then
+            git show FETCH_HEAD:waka-history.json > assets/waka-history.json
+            echo "Restored history from output branch."
+          else
+            echo "No output branch yet, fetching full history from the API."
+          fi
+
+      - name: Render waka.svg
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: python .github/scripts/gen_waka.py
 
-      - name: Commit if changed
+      - name: Publish to output branch (single commit)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if [ -z "$(git status --porcelain assets)" ]; then
-            echo "Nothing to do."
-            exit 0
-          fi
+          out="$RUNNER_TEMP/output"
+          mkdir -p "$out"
+          cp assets/waka.svg assets/waka-history.json "$out/"
+          cd "$out"
+          git init -q -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets
-          git commit -m "chore: update WakaTime panel"
-          git push
+          git add .
+          git commit -q -m "WakaTime panel $(date -u +%F)"
+          git push -f -q "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
